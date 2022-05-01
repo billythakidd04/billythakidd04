@@ -19,15 +19,19 @@ I find working remote is the best fit for me. I *do* love working as a team. I j
 * Known:
   * PHP
     * Expert - 10+ years
-  * Golang
-    * Intermediate - ~5 years
-  * Python
-    * Intermediate - ~2 years
   * JavaScript (I am *not* a fan)
     * Intermediate - ~6 years
+  * Golang
+    * Intermediate - ~4 years
+  * Python
+    * Intermediate - ~2 years
   * Java
+    * Intermediate - ~2 years (though it's been a few years)
+  * C++
+    * Intermediate - ~2 years
 * Learning:
   * Rust
+  * BlockChain with a focus on smart contracts and NFTs
 
 ### Databases
 
