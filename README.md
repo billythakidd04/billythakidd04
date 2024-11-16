@@ -43,7 +43,9 @@ I find working remote is the best fit for me. I *do* love working as a team. I j
 ### Frameworks
 
 * Symfony
-  * Intermediate - ~5 years
+  * Intermediate - since ~2010
+* Laravel
+  * Intermediate-Novice - ~2 years
 * Slim
   * Intermediate - ~5 years
 * Wordpress
@@ -54,3 +56,5 @@ I find working remote is the best fit for me. I *do* love working as a team. I j
 ### Hobbies
 
 ### Family
+
+1 awesome son
